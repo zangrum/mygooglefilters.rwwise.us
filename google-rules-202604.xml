@@ -1,0 +1,2543 @@
+<feed xmlns="http://www.w3.org/2005/Atom"
+    xmlns:apps="http://schemas.google.com/apps/2006">
+    <title>Mail Filters</title>
+    <id>tag:mail.google.com,2008:filters:1113228444340,1121459755749,1127401745565,1128908358113,1130764975769,1132328613727,1139491281583,1141133350427,1141133401096,1141133427566,1143551871155,1144960849652,1147057597413,1147114379491,1147276898817,1148558837373,1157493960023,1157657186279,1157746174436,1157979739325,1158547541668,1159793712454,1160069675233,1161198491922,1161290006206,1163108577841,1164049768776,1166189272950,1169212750615,1170640932787,1183678966175,1189640698405,1189640941842,1192302522956,1197432393705,1210441234456,1210476955518,1227792058963,1237054404487,1248743224171,1253455630488,1268022337872,1292861111833,1292861139604,1292861173781,1308499849886,1313167409927,1313167459259,1313167542873,1316824829387,1316887870007,1329827330820,1329827360797,1332204235331,1341143743736,1360807505173,1360807528589,1367173203002,1373400392574,1385077768031,1385077839763,1389115950314,1397440478637,1398520200891,1403148584217,1414251537680,1422120974910,1422121084315,1424302065651,1428092402902,1429615479749,1445393709436,1446163650636,1447615237327,1447900712484,1450824060868,1450824088585,1451580820730,1451580863038,1451580913588,1451580936732,1452035750495,1454642527242,1454642607432,1455457027077,1456801297743,1458958094904,1458958179524,1466274260868,1466274323236,1467484484761,1471053483893,1475291759550873350,1476048640360,1476048768461,1476048903806,1476048962667,1479593416110,1479593884310,1479594059652,1479594515143,1480335151413,1482806622279,1487437137407,1487437160941,1487437252079,1487437296041,1487437361139,1496716599695,1496716642851,1496716678094,1496716697956,1498615514642,1499568828469,1503182421459,1504812563861,1506700561141,1506700615310,1506700681806,1506701258677,1506702271649,1506702564704,1508284202560,1508601254330,1508601437179,1517342874065,1518887663261,1519575159468,1523719729706,1527812535125,1945321005295401056,2682178879538260761,3120598067591914646,3128177302142979125,4624342072802511565,5258249168654757596,5307140950773145454,586038919153738408,6086347713015136553,6417302076546266849,6586505167253575671,724546293491530568,7340409494276931318,7418031469073688396,8919208349506325504,z0000001555849008581*7478854299486669858,z0000001555849127190*0216850249118905608,z0000001555849338928*8702267265567995454,z0000001556670796055*0675009922787873405,z0000001560639913505*2723890534024949568,z0000001560640362644*6258016429286675546,z0000001560640383270*7255833873207389372,z0000001563646595195*3276719164141506560,z0000001576425863331*7220216697712713745,z0000001576425923339*8557496314839958107,z0000001576426231876*0180587157912630292,z0000001576426451422*7762625825425053953,z0000001576426529026*0146739210470237791,z0000001576426595689*7342459695031118911,z0000001576426895768*2792700771592808115,z0000001581738864203*1477746583117453612,z0000001581738920316*6887213875978025163,z0000001581738969477*8928148471674928067,z0000001581739641031*6176226986531311629,z0000001581739723065*6928186032088620673,z0000001581739885036*8667336009061293982,z0000001581740017883*1682881291402899494,z0000001581740094817*2671884408861591059,z0000001581740120609*5078764282720603108,z0000001581741509043*1580217103387453589,z0000001585354691321*4342461752354492259,z0000001585354716537*5913110507020704565,z0000001585354753623*3209250206628635135,z0000001585354776649*6078872222262145021,z0000001585354831490*5677415849594505835,z0000001585354863245*4556764342425176269,z0000001586715846602*4560119549283636261,z0000001586716576497*6728754592022808435,z0000001586716647722*4622205181982213667,z0000001586716685603*7881878745960855247,z0000001590277861473*7171631952578504245,z0000001590945767774*7036097518262166316,z0000001593208509767*1449824157843726985,z0000001596601842617*6167741689084147365,z0000001598478893119*5082246965194500841,z0000001598479213080*3950547369433412441,z0000001598479332102*4308051666961242287,z0000001633052975899*7454861655984783361,z0000001633053529094*0967710538645397695,z0000001633054573962*8101855766969113679,z0000001633055028979*8907619997130693721,z0000001633055246803*7590200509141832558,z0000001635096762507*6992854808299417031,z0000001640024158406*5421892461812772282,z0000001641345908351*6678317945812128805,z0000001658858233926*5666001980277377297,z0000001658858287464*4896491958599421300,z0000001659716683218*7067099639707359409,z0000001681394821592*1064978435449463317,z0000001681394876625*1501661698365396741,z0000001681394963410*7289250949035624352,z0000001681395102960*3480821809279997299,z0000001681395201344*3936941019940109787,z0000001681523103513*2233624484766329075,z0000001681742948271*2939188146550095207,z0000001681744095195*1539453351321789883,z0000001681744175610*6922306730259882026,z0000001686587925461*0947472481746631206,z0000001686857042961*4897297069135541330,z0000001688748324751*4583766309132377430,z0000001731170927063*1324120217312890896,z0000001758198418971*2889942875264115399,z0000001760192399885*1053390070223340863,z0000001760192507314*1577324889410631687,z0000001760192832362*2758835284122077264,z0000001760193160550*5125575890817251048,z0000001760193982513*6063923712709194998,z0000001760194260957*1725732647977644085,z0000001760194337945*1384460900776996456,z0000001760195841907*3025525981072684551,z0000001760196327732*4130043071722370519,z0000001760200330444*4484766291968669948,z0000001761007528245*1557668625253805337,z0000001761007666375*6752078893319770744,z0000001766958962453*1689949827305737161,z0000001766959184051*7092172935406002668,z0000001777142346275*8801676912201278859</id>
+    <updated>2026-04-25T19:29:32Z</updated>
+    <author>
+        <name>Richard Wise</name>
+        <email>rwwise@gmail.com</email>
+    </author>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1113228444340</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="directjobs@na.manpower.com"/>
+        <apps:property name="label" value="Job Hunting"/>
+        <apps:property name="shouldArchive" value="true"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1121459755749</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="*@teksystems.com"/>
+        <apps:property name="label" value="Job Hunting"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1127401745565</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="jagent@route.monster.com"/>
+        <apps:property name="label" value="Job Hunting"/>
+        <apps:property name="shouldArchive" value="true"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1128908358113</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="fool@foolsubs.com"/>
+        <apps:property name="label" value="News"/>
+        <apps:property name="shouldArchive" value="true"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1130764975769</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="fool@foolmail.com"/>
+        <apps:property name="label" value="News"/>
+        <apps:property name="shouldArchive" value="true"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1132328613727</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="*@theserverside.com"/>
+        <apps:property name="label" value="Java Related Notifications"/>
+        <apps:property name="shouldArchive" value="true"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1139491281583</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="regsoft@reply.digitalriver.com"/>
+        <apps:property name="label" value="Z - Advertizement"/>
+        <apps:property name="shouldArchive" value="true"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1141133350427</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="comp.lang.java.help group"/>
+        <apps:property name="label" value="Java Groups Abridged Summaries"/>
+        <apps:property name="shouldArchive" value="true"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1141133401096</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="rec.arts.sf.written group"/>
+        <apps:property name="label" value="Fun Groups Abridged"/>
+        <apps:property name="shouldArchive" value="true"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1141133427566</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="comp.lang.java.programmer group"/>
+        <apps:property name="label" value="Java Groups Abridged Summaries"/>
+        <apps:property name="shouldArchive" value="true"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1143551871155</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="ibm.software.websphere.* group"/>
+        <apps:property name="label" value="Java Groups Abridged Summaries"/>
+        <apps:property name="shouldArchive" value="true"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1144960849652</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="*@jakarta.apache.org"/>
+        <apps:property name="label" value="Java Related Notifications"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1147057597413</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="apache.org"/>
+        <apps:property name="label" value="Java Related Notifications"/>
+        <apps:property name="shouldArchive" value="true"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1147114379491</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="subject" value="Status Report"/>
+        <apps:property name="label" value="From Work"/>
+        <apps:property name="shouldArchive" value="true"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1147276898817</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="to" value="AustinJUG@yahoogroups.com|SanAntonioJUG@yahoogroups.com"/>
+        <apps:property name="label" value="JavaUserGroups"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1148558837373</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="itunes@new-music.itunes.com"/>
+        <apps:property name="label" value="Z - Advertizement"/>
+        <apps:property name="shouldArchive" value="true"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1157493960023</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="SourceForge.net"/>
+        <apps:property name="label" value="SourceForge"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1157657186279</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="herostats-bugs-request@lists.sourceforge.net"/>
+        <apps:property name="label" value="Games"/>
+        <apps:property name="shouldArchive" value="true"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1157746174436</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="news@idevnews.com"/>
+        <apps:property name="label" value="Z - Advertizement"/>
+        <apps:property name="shouldArchive" value="true"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1157979739325</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="Tricia Wise"/>
+        <apps:property name="label" value="Family"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1158547541668</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="herostats-devel"/>
+        <apps:property name="label" value="Games"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1159793712454</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="*@baensuniverse.com|*@baens-universe.com"/>
+        <apps:property name="label" value="BaensUniverse"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1160069675233</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="newsletter@mytreo.net"/>
+        <apps:property name="label" value="Z - Advertizement"/>
+        <apps:property name="shouldArchive" value="true"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1161198491922</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="*@plaync.com"/>
+        <apps:property name="label" value="Games"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1161290006206</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="dev2dev@w1.bea.com"/>
+        <apps:property name="label" value="Z - Advertizement"/>
+        <apps:property name="shouldArchive" value="true"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1163108577841</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="News@insideapple.apple.com|discover@newmusic.itunes.com"/>
+        <apps:property name="label" value="Z - Advertizement"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1164049768776</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="mailer@mmorpg.com|gamestop.com"/>
+        <apps:property name="label" value="Games"/>
+        <apps:property name="shouldArchive" value="true"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1166189272950</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="coldfront.net|mmorpg.com"/>
+        <apps:property name="label" value="Games"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1169212750615</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="*insider.alienware.com"/>
+        <apps:property name="label" value="Z - Advertizement"/>
+        <apps:property name="shouldArchive" value="true"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1170640932787</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="Newegg.com Newsletter|*@newegg.chtah.com|promo@email.newegg.com"/>
+        <apps:property name="label" value="Z - Advertizement"/>
+        <apps:property name="shouldArchive" value="true"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1183678966175</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="USAA.customer.service@protect.usaa.com||usaabillpaycustomerservice@customercenter.net||USAA.Web.Services@customermail.usaa.com||E-CommerceBanking@usaa.com||customercare@usaa529.com||usaa.customer.service@mailcenter.usaa.com||usaa@e.experiandirect.com||*@*.usaa.com"/>
+        <apps:property name="label" value="USAA"/>
+        <apps:property name="shouldArchive" value="true"/>
+        <apps:property name="forwardTo" value="pigmol@gmail.com"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1189640698405</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="*@abcuo.com|nintendo-news.com"/>
+        <apps:property name="label" value="Games"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1189640941842</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="tjudkins@firstprotestant.com|anni_judkins@hotmail.com"/>
+        <apps:property name="label" value="Church"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1192302522956</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="notice@godaddy.com|offers@godaddy.com|newsletter@e.godaddy.com"/>
+        <apps:property name="label" value="Z - Advertizement"/>
+        <apps:property name="shouldArchive" value="true"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1197432393705</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="*@*.ebgames.com|*@mignonfaget.com"/>
+        <apps:property name="label" value="Z - Advertizement"/>
+        <apps:property name="shouldArchive" value="true"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1210441234456</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="Dell Direct"/>
+        <apps:property name="label" value="Z - Advertizement"/>
+        <apps:property name="shouldArchive" value="true"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1210476955518</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="CreditCheck Monitoring"/>
+        <apps:property name="label" value="Finances"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1227792058963</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="@decipher.com"/>
+        <apps:property name="label" value="FightKlub"/>
+        <apps:property name="shouldNeverSpam" value="true"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1237054404487</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="DiscountTire@discounttirepromotions.com"/>
+        <apps:property name="label" value="Z - Advertizement"/>
+        <apps:property name="shouldArchive" value="true"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1248743224171</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="ebay"/>
+        <apps:property name="label" value="ebay"/>
+        <apps:property name="shouldArchive" value="true"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1253455630488</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="rwwise@gmail.com"/>
+        <apps:property name="hasTheWord" value="'Sent from my iPhone'"/>
+        <apps:property name="label" value="sent from my ipod"/>
+        <apps:property name="shouldArchive" value="true"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1268022337872</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="vijufri@yahoo.com"/>
+        <apps:property name="shouldTrash" value="true"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1292861111833</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="promo@e.newegg.com"/>
+        <apps:property name="label" value="Z - Advertizement"/>
+        <apps:property name="shouldArchive" value="true"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1292861139604</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="US.news@tomtom.com"/>
+        <apps:property name="label" value="Z - Advertizement"/>
+        <apps:property name="shouldArchive" value="true"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1292861173781</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="do_not_reply@itunes.com"/>
+        <apps:property name="label" value="iPod"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1308499849886</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="lbrook97@yahoo.com"/>
+        <apps:property name="label" value="Church"/>
+        <apps:property name="shouldArchive" value="true"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1313167409927</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="Google+"/>
+        <apps:property name="label" value="Google+"/>
+        <apps:property name="shouldMarkAsRead" value="true"/>
+        <apps:property name="shouldArchive" value="true"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1313167459259</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="webmaster@reverentguild.com"/>
+        <apps:property name="label" value="Games"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1313167542873</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="Dell"/>
+        <apps:property name="label" value="Z - Advertizement"/>
+        <apps:property name="shouldMarkAsRead" value="true"/>
+        <apps:property name="shouldArchive" value="true"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1316824829387</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="LinkedIn"/>
+        <apps:property name="label" value="LinkedIn"/>
+        <apps:property name="shouldArchive" value="true"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1316887870007</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="noreply@youtube.com"/>
+        <apps:property name="label" value="YouTube"/>
+        <apps:property name="shouldArchive" value="true"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1329827330820</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="noreply@mmorpg.com"/>
+        <apps:property name="label" value="Games"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1329827360797</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="hillcountry@hillcountry.fbmta.com"/>
+        <apps:property name="label" value="Z - Advertizement"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1332204235331</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="noreply@geocaching.com"/>
+        <apps:property name="label" value="GeoCaching"/>
+        <apps:property name="shouldArchive" value="true"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1341143743736</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="no-reply@riftgame.com"/>
+        <apps:property name="label" value="Games/Rift"/>
+        <apps:property name="shouldArchive" value="true"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1360807505173</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="noreply@mmorpg.com"/>
+        <apps:property name="label" value="Games"/>
+        <apps:property name="shouldArchive" value="true"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1360807528589</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="swtor@email.swtor.com"/>
+        <apps:property name="label" value="Games/SWTOR"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1367173203002</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="ebooks@baenebooks.com"/>
+        <apps:property name="label" value="BaensUniverse"/>
+        <apps:property name="shouldArchive" value="true"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1373400392574</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="account@nest.com"/>
+        <apps:property name="label" value="Nest"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1385077768031</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="reminders@ftdreminders.com"/>
+        <apps:property name="label" value="Z - Advertizement"/>
+        <apps:property name="shouldArchive" value="true"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1385077839763</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="xbox@engage.xbox.com"/>
+        <apps:property name="label" value="Games/Xbox"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1389115950314</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="fsafety@live.com"/>
+        <apps:property name="label" value="Boys family safety"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1397440478637</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="eso_help@helpmail.elderscrollsonline.com"/>
+        <apps:property name="label" value="Games/ESO"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1398520200891</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="notifications@disqus.net"/>
+        <apps:property name="label" value="Games"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1403148584217</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="no-reply@taw.net"/>
+        <apps:property name="label" value="Games/ESO"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1414251537680</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="support.ideas@lego.com"/>
+        <apps:property name="label" value="Lego"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1422120974910</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="adam@heroesandfantasies.com"/>
+        <apps:property name="label" value="MTG"/>
+        <apps:property name="shouldArchive" value="true"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1422121084315</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="hasTheWord" value="829b6cac51fead3afc7a0d269.739533.list-id.mcsv.net"/>
+        <apps:property name="label" value="Quarterly"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1424302065651</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="landaparkdolphins@gmail.com"/>
+        <apps:property name="label" value="Boys/Landa Park"/>
+        <apps:property name="shouldArchive" value="true"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1428092402902</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="noreply@fitbit.com|messages-noreply@fitbit.com"/>
+        <apps:property name="label" value="FitBit"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1429615479749</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="microsoftfamily@microsoft.com"/>
+        <apps:property name="label" value="Boys family safety"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1445393709436</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="theluebs@gmail.com"/>
+        <apps:property name="label" value="Boys/Boyscouts"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1446163650636</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="@facebookmail.com"/>
+        <apps:property name="label" value="Z - Advertizement/facebook"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1447615237327</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="Marriott@marriott-email.com"/>
+        <apps:property name="label" value="rewards"/>
+        <apps:property name="shouldArchive" value="true"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1447900712484</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="hhonors@h1.hiltonhhonors.com"/>
+        <apps:property name="label" value="rewards"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1450824060868</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="rewards@pxsmail.com"/>
+        <apps:property name="label" value="Z - Advertizement"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1450824088585</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="hasTheWord" value="list:(a4d482c93dffb428890038baa.62077.list-id.mcsv.net)"/>
+        <apps:property name="label" value="Z - Advertizement"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1451580820730</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="anki@e.ankimail.com"/>
+        <apps:property name="label" value="Anki"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1451580863038</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="deuce0515@yahoo.com"/>
+        <apps:property name="label" value="Boys/upward"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1451580913588</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="nbupward@gmail.com"/>
+        <apps:property name="label" value="Boys/upward"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1451580936732</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="marriott@email-marriott.com"/>
+        <apps:property name="label" value="rewards"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1452035750495</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="marriott@email-marriott.com"/>
+        <apps:property name="label" value="rewards"/>
+        <apps:property name="shouldArchive" value="true"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1454642527242</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="email_choiceprivileges@your.choicehotels.com"/>
+        <apps:property name="label" value="rewards"/>
+        <apps:property name="shouldMarkAsRead" value="true"/>
+        <apps:property name="shouldArchive" value="true"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1454642607432</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="noreply@blizzard.com"/>
+        <apps:property name="label" value="Games"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1455457027077</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="email@mailer.elderscrollsonline.com"/>
+        <apps:property name="label" value="Games/ESO"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1456801297743</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="no-reply@kickstarter.com|no-reply@s.backerkit.com"/>
+        <apps:property name="label" value="Kickstarter"/>
+        <apps:property name="shouldMarkAsRead" value="true"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1458958094904</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="ebooks@baen.com"/>
+        <apps:property name="label" value="BaensUniverse"/>
+        <apps:property name="shouldMarkAsRead" value="true"/>
+        <apps:property name="shouldArchive" value="true"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1458958179524</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="noreply@blackdesertonline.com"/>
+        <apps:property name="label" value="Games/Black Desert Online"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1466274260868</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="newsletters@newsletter.funcom.com"/>
+        <apps:property name="label" value="Games/tsw"/>
+        <apps:property name="shouldMarkAsRead" value="true"/>
+        <apps:property name="shouldArchive" value="true"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1466274323236</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="homedepotreceipt@homedepot.com|HomeDepot@order.homedepot.com"/>
+        <apps:property name="label" value="Reciepts"/>
+        <apps:property name="shouldMarkAsRead" value="true"/>
+        <apps:property name="shouldArchive" value="true"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1467484484761</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="newsletter@therepopulation.com"/>
+        <apps:property name="label" value="Games/TheRepopulation"/>
+        <apps:property name="shouldArchive" value="true"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1471053483893</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="swtor.com|swtor@e.ea.com"/>
+        <apps:property name="label" value="Games/SWTOR"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1475291759550873350</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="orders@jimmyjohns.com"/>
+        <apps:property name="label" value="Finances"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1476048640360</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="noreply@team.pottermore.com"/>
+        <apps:property name="label" value="Miscellaneous"/>
+        <apps:property name="shouldMarkAsRead" value="true"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1476048768461</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="donotreply@upwardemail.org"/>
+        <apps:property name="label" value="Boys/upward"/>
+        <apps:property name="shouldMarkAsRead" value="true"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1476048903806</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="schoolmessenger.com|mail.remind.com|*@comalisd.org|CharmsEmailSender@charmsmusic.com)"/>
+        <apps:property name="label" value="Boys School"/>
+        <apps:property name="shouldArchive" value="true"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1476048962667</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="david_drake@mail.vresp.com"/>
+        <apps:property name="label" value="BaensUniverse"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1479593416110</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="SouthwestAirlines@luv.southwest.com"/>
+        <apps:property name="label" value="Z - Advertizement/Southwest Airlines"/>
+        <apps:property name="shouldMarkAsRead" value="true"/>
+        <apps:property name="shouldArchive" value="true"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1479593884310</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="noreply@yeticoolers.com||noreply@yeti.com"/>
+        <apps:property name="label" value="Yeti"/>
+        <apps:property name="shouldMarkAsRead" value="true"/>
+        <apps:property name="shouldArchive" value="true"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1479594059652</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="account-security-noreply@account.microsoft.com OR account-security-noreply@microsoft.com"/>
+        <apps:property name="label" value="Registrations"/>
+        <apps:property name="shouldMarkAsRead" value="true"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1479594515143</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="no-reply@mail.goodreads.com"/>
+        <apps:property name="label" value="books\goodreads"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1480335151413</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="legacybox@mail.legacybox.com"/>
+        <apps:property name="label" value="Z - Advertizement"/>
+        <apps:property name="shouldMarkAsRead" value="true"/>
+        <apps:property name="shouldArchive" value="true"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1482806622279</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="*@getnotion.com"/>
+        <apps:property name="label" value="583 Shady Hollow/Notion"/>
+        <apps:property name="shouldMarkAsRead" value="true"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1487437137407</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="hasTheWord" value="*@patreon.com"/>
+        <apps:property name="label" value="Patreon"/>
+        <apps:property name="shouldArchive" value="true"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1487437160941</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="whataburger@beanstalkdata.com"/>
+        <apps:property name="label" value="Z - Advertizement"/>
+        <apps:property name="shouldArchive" value="true"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1487437252079</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="hasTheWord" value="mj septic"/>
+        <apps:property name="label" value="583 Shady Hollow"/>
+        <apps:property name="shouldMarkAsRead" value="true"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1487437296041</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="microsoftrewards@e.microsoft.com"/>
+        <apps:property name="label" value="Z - Advertizement"/>
+        <apps:property name="shouldArchive" value="true"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1487437361139</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="RapidRewards@luv.southwest.com"/>
+        <apps:property name="label" value="Z - Advertizement/Southwest Airlines"/>
+        <apps:property name="shouldMarkAsRead" value="true"/>
+        <apps:property name="shouldArchive" value="true"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1496716599695</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="nintendo-noreply@nintendo.net"/>
+        <apps:property name="label" value="Games/Nintendo"/>
+        <apps:property name="shouldArchive" value="true"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1496716642851</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="noreply@theoldreader.com"/>
+        <apps:property name="label" value="Z - Advertizement"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1496716678094</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="starbucks@e.starbucks.com"/>
+        <apps:property name="label" value="Z - Advertizement/Starbucks"/>
+        <apps:property name="shouldArchive" value="true"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1496716697956</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="marlinshooter@sbcglobal.net"/>
+        <apps:property name="label" value="Boys/Boyscouts"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1498615514642</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="starbucks@mg.starbucks.com OR reply@clippings.stihldealer.net"/>
+        <apps:property name="label" value="Z - Advertizement"/>
+        <apps:property name="shouldArchive" value="true"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1499568828469</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="fidelity.com"/>
+        <apps:property name="label" value="Finances"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1503182421459</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="no-reply@accounts.google.com"/>
+        <apps:property name="label" value="AccountNotifications"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1504812563861</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="tx.no-reply@isecurus.com OR customerservice@txtag.org"/>
+        <apps:property name="label" value="Finances"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1506700561141</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="clarissaplatt@gmail.com"/>
+        <apps:property name="label" value="Boys/upward"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1506700615310</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="*@signupgenius.com"/>
+        <apps:property name="hasTheWord" value="Clarissa Platt"/>
+        <apps:property name="label" value="Boys/upward"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1506700681806</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="info@signupgenius.com"/>
+        <apps:property name="hasTheWord" value="Ann Lueb"/>
+        <apps:property name="label" value="Boys/Boyscouts"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1506701258677</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="noreply@email.apple.com"/>
+        <apps:property name="label" value="iPod"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1506702271649</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="do-not-reply@trello.com"/>
+        <apps:property name="hasTheWord" value="Ann Lueb"/>
+        <apps:property name="label" value="Boys/Boyscouts"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1506702564704</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="noreply@pottermore.com"/>
+        <apps:property name="label" value="Fun"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1508284202560</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="cade007brown@gmail.com"/>
+        <apps:property name="label" value="Boys/Boyscouts"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1508601254330</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="expiry@letsencrypt.org"/>
+        <apps:property name="label" value="My Webpage"/>
+        <apps:property name="shouldMarkAsRead" value="true"/>
+        <apps:property name="shouldArchive" value="true"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1508601437179</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="swl@info.funcom.com"/>
+        <apps:property name="label" value="Games/tsw"/>
+        <apps:property name="shouldMarkAsRead" value="true"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1517342874065</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="hasTheWord" value="list:(3ff9518d8873fbc1e7b2f4554.395453.list-id.mcsv.net)"/>
+        <apps:property name="label" value="Z - Advertizement"/>
+        <apps:property name="shouldMarkAsRead" value="true"/>
+        <apps:property name="shouldArchive" value="true"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1518887663261</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="*@watchtime.com"/>
+        <apps:property name="label" value="WatchTime"/>
+        <apps:property name="shouldArchive" value="true"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1519575159468</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="crsmith511@gmail.com"/>
+        <apps:property name="label" value="Boys/Boyscouts"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1523719729706</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="registration@phreesia-mail.com"/>
+        <apps:property name="label" value="Medical"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1527812535125</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="noreply@victory.drafthouse.com"/>
+        <apps:property name="label" value="Z - Advertizement/Alamo Drafthouse"/>
+        <apps:property name="shouldMarkAsRead" value="true"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:1945321005295401056</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="*@res-marriott.com"/>
+        <apps:property name="label" value="Travel"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:2682178879538260761</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="orders@email-honeywell.com"/>
+        <apps:property name="label" value="583 Shady Hollow/Apollo"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:3120598067591914646</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="no-reply@accounts.nintendo.com"/>
+        <apps:property name="label" value="Games/Nintendo"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:3128177302142979125</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="*@enterprise.com"/>
+        <apps:property name="label" value="Travel"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:4624342072802511565</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="AmericanAirlines@survey.as.aa.com"/>
+        <apps:property name="label" value="Travel"/>
+        <apps:property name="shouldArchive" value="true"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:5258249168654757596</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="shipment-tracking@amazon.com"/>
+        <apps:property name="label" value="Finances/Amazon"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:5307140950773145454</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="help@epicgames.com"/>
+        <apps:property name="label" value="Games/Epic"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:586038919153738408</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="loyalty@loyalty.ms.aa.com"/>
+        <apps:property name="label" value="rewards"/>
+        <apps:property name="shouldMarkAsRead" value="true"/>
+        <apps:property name="shouldArchive" value="true"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:6086347713015136553</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="honeywellhomessupport@honeywell.com"/>
+        <apps:property name="label" value="583 Shady Hollow/Apollo"/>
+        <apps:property name="shouldMarkAsRead" value="true"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:6417302076546266849</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="digital-no-reply@amazon.com OR gc-orders@gc.email.amazon.com"/>
+        <apps:property name="label" value="Finances/Amazon"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:6586505167253575671</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="surveys@listen360.com OR tickets@drafthouse.com"/>
+        <apps:property name="label" value="AlamoDrafthouse"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:724546293491530568</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="EnterprisePlus@email.enterprise.com OR AmericanAirlines@info.ms.aa.com OR *@notify.email.aa.com"/>
+        <apps:property name="label" value="Travel"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:7340409494276931318</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="aavprogram@loyalty.ms.aa.com"/>
+        <apps:property name="label" value="rewards"/>
+        <apps:property name="shouldMarkAsRead" value="true"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:7418031469073688396</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="uber.us@uber.com"/>
+        <apps:property name="label" value="Reciepts"/>
+        <apps:property name="shouldArchive" value="true"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:8919208349506325504</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="*@amazon.com"/>
+        <apps:property name="label" value="Finances/Amazon"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:z0000001555849008581*7478854299486669858</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="no-reply@honeywellhome.com"/>
+        <apps:property name="label" value="583 Shady Hollow/Apollo"/>
+        <apps:property name="shouldMarkAsRead" value="true"/>
+        <apps:property name="shouldArchive" value="true"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:z0000001555849127190*0216850249118905608</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="paypal@mail.paypal.com"/>
+        <apps:property name="label" value="Finances/Paypal"/>
+        <apps:property name="shouldMarkAsRead" value="true"/>
+        <apps:property name="shouldArchive" value="true"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:z0000001555849338928*8702267265567995454</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="service@papajohnsonline.com"/>
+        <apps:property name="label" value="Finances/receipts"/>
+        <apps:property name="shouldMarkAsRead" value="true"/>
+        <apps:property name="shouldArchive" value="true"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:z0000001556670796055*0675009922787873405</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="hasTheWord" value="list:(factorio-blueprint-editor.Teoxoy.github.com)"/>
+        <apps:property name="label" value="Games/factorio"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:z0000001560639913505*2723890534024949568</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="honors@h1.hilton.com"/>
+        <apps:property name="label" value="rewards"/>
+        <apps:property name="shouldArchive" value="true"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:z0000001560640362644*6258016429286675546</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="magic@magic.wizards.com"/>
+        <apps:property name="label" value="MTG"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:z0000001560640383270*7255833873207389372</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="MTGArena@magic.wizards.com"/>
+        <apps:property name="label" value="MTG"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:z0000001563646595195*3276719164141506560</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="hasTheWord" value="list:(factorio-blueprint-editor.Teoxoy.github.com)"/>
+        <apps:property name="label" value="Games/factorio"/>
+        <apps:property name="shouldMarkAsRead" value="true"/>
+        <apps:property name="shouldArchive" value="true"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:z0000001576425863331*7220216697712713745</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="erin@brickloot.com"/>
+        <apps:property name="label" value="Z - Advertizement/Brickloots"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:z0000001576425923339*8557496314839958107</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="comixology@e.comixology.com"/>
+        <apps:property name="label" value="Z - Advertizement"/>
+        <apps:property name="shouldMarkAsRead" value="true"/>
+        <apps:property name="shouldArchive" value="true"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:z0000001576426231876*0180587157912630292</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="venmo@venmo.com"/>
+        <apps:property name="label" value="Finances/venmo"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:z0000001576426451422*7762625825425053953</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="askdrg@yahoo.com"/>
+        <apps:property name="label" value="Medical"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:z0000001576426529026*0146739210470237791</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="no-reply@doordash.com"/>
+        <apps:property name="label" value="Z - Advertizement/Doordash"/>
+        <apps:property name="shouldArchive" value="true"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:z0000001576426595689*7342459695031118911</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="account-security-noreply@accountprotection.microsoft.com"/>
+        <apps:property name="label" value="AccountNotifications/minecraft"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:z0000001576426895768*2792700771592808115</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="accounts@firefox.com"/>
+        <apps:property name="label" value="AccountNotifications"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:z0000001581738864203*1477746583117453612</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="to" value="zangrum@rwwise.us"/>
+        <apps:property name="label" value="Zangrum"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:z0000001581738920316*6887213875978025163</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="domains-noreply@google.com"/>
+        <apps:property name="label" value="Domains"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:z0000001581738969477*8928148471674928067</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="renewals@godaddy.com|accountstatus@godaddy.com|accountupdate@godaddy.com|donotreply@godaddy.com|transfers@godaddy.com"/>
+        <apps:property name="label" value="Domains"/>
+        <apps:property name="shouldArchive" value="true"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:z0000001581739641031*6176226986531311629</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="hasTheWord" value="list:(<jimbutcher.groups.io>)"/>
+        <apps:property name="label" value="books/JimButcher"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:z0000001581739723065*6928186032088620673</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="announcements@jimmyjohns.com"/>
+        <apps:property name="label" value="Z - Advertizement/JimmyJohns"/>
+        <apps:property name="shouldMarkAsRead" value="true"/>
+        <apps:property name="shouldArchive" value="true"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:z0000001581739885036*8667336009061293982</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="guest@tsg.pxsmail.com"/>
+        <apps:property name="label" value="rewards/RaisingCanes"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:z0000001581740017883*1682881291402899494</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="*@audible.com"/>
+        <apps:property name="label" value="books/audible"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:z0000001581740094817*2671884408861591059</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="*@concursolutions.com||*@email-usaarewardsprogram.com"/>
+        <apps:property name="label" value="USAA/travel"/>
+        <apps:property name="shouldArchive" value="true"/>
+        <apps:property name="shouldAlwaysMarkAsImportant" value="true"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:z0000001581740120609*5078764282720603108</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="pray_for_nations@yahoo.com"/>
+        <apps:property name="label" value="Family"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:z0000001581741509043*1580217103387453589</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="hasTheWord" value="list:(<39484.xt.local>)"/>
+        <apps:property name="label" value="Registrations/Pax South"/>
+        <apps:property name="shouldArchive" value="true"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:z0000001585354691321*4342461752354492259</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="raisingcanes@raisingcanes.fbmta.com OR dawn.loding@exprealty.com OR freebirds.com OR popmenu.com OR freebirdsworldburrito.com"/>
+        <apps:property name="label" value="Z - Advertizement"/>
+        <apps:property name="shouldArchive" value="true"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:z0000001585354716537*5913110507020704565</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="selvajones@hotmail.com"/>
+        <apps:property name="label" value="Family"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:z0000001585354753623*3209250206628635135</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="hasTheWord" value="list:(307b37afa34050ab726996e6c.99797.list-id.mcsv.net)"/>
+        <apps:property name="label" value="Miscellaneous"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:z0000001585354776649*6078872222262145021</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="m.s@hackerx.co"/>
+        <apps:property name="label" value="Z - Advertizement"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:z0000001585354831490*5677415849594505835</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="security@mail.instagram.com"/>
+        <apps:property name="label" value="AccountNotifications"/>
+        <apps:property name="shouldArchive" value="true"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:z0000001585354863245*4556764342425176269</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="noreply@marketing.sg.getweave.com OR dnr@myupdox.com"/>
+        <apps:property name="label" value="Medical"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:z0000001586715846602*4560119549283636261</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="scouting.org|troopwebhost.org|alamoareabsa.org|bsamail.org|alamo.mbu@gmail.com|email.scoutingwire.org|scoutbook.com"/>
+        <apps:property name="label" value="Boys/Boyscouts"/>
+        <apps:property name="shouldMarkAsRead" value="true"/>
+        <apps:property name="shouldArchive" value="true"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:z0000001586716576497*6728754592022808435</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="info@mailer.netflix.com"/>
+        <apps:property name="label" value="Z - Advertizement"/>
+        <apps:property name="shouldArchive" value="true"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:z0000001586716647722*4622205181982213667</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="hasTheWord" value="list:(<b3e1f2e8effcc7e76ecd87d5083fd5e85c0e1bce.google.com>)"/>
+        <apps:property name="label" value="583 Shady Hollow"/>
+        <apps:property name="shouldArchive" value="true"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:z0000001586716685603*7881878745960855247</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="support@plaidhatgames.com"/>
+        <apps:property name="label" value="Games"/>
+        <apps:property name="shouldMarkAsRead" value="true"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:z0000001590277861473*7171631952578504245</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="zangrum@rwwise.us"/>
+        <apps:property name="subject" value="root@homelab100"/>
+        <apps:property name="label" value="Homelab"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:z0000001590945767774*7036097518262166316</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="hasTheWord" value="list:(<96540.xt.local>)"/>
+        <apps:property name="label" value="AccountNotifications/windows insider"/>
+        <apps:property name="shouldArchive" value="true"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:z0000001593208509767*1449824157843726985</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="tommybahama@tommybahama-em.com"/>
+        <apps:property name="label" value="Z - Advertizement/TommyBahama"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:z0000001596601842617*6167741689084147365</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="modsquad@modpizza.com|offers@modpizza.com"/>
+        <apps:property name="label" value="Z - Advertizement/ModPizza"/>
+        <apps:property name="shouldArchive" value="true"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:z0000001598478893119*5082246965194500841</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="root@homelab100.rwwise.us"/>
+        <apps:property name="label" value="Homelab"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:z0000001598479213080*3950547369433412441</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="no-reply@whataburger.com"/>
+        <apps:property name="subject" value="order"/>
+        <apps:property name="label" value="Finances/whataburger receipts"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:z0000001598479332102*4308051666961242287</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="noreply@mojang.com"/>
+        <apps:property name="to" value="sam@rwwise.us"/>
+        <apps:property name="label" value="Boys/Sams Minecraft"/>
+        <apps:property name="shouldMarkAsRead" value="true"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:z0000001633052975899*7454861655984783361</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="devops.com | sfia-online.org | mediaops.com"/>
+        <apps:property name="label" value="Home Work/Learning"/>
+        <apps:property name="shouldMarkAsRead" value="true"/>
+        <apps:property name="shouldArchive" value="true"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:z0000001633053529094*0967710538645397695</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="twise9872@gmail.com"/>
+        <apps:property name="label" value="Family/Tim"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:z0000001633054573962*8101855766969113679</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="christushealth.org"/>
+        <apps:property name="label" value="Medical"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:z0000001633055028979*8907619997130693721</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="mail.vcm.com"/>
+        <apps:property name="label" value="Finances"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:z0000001633055246803*7590200509141832558</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="venmo.com"/>
+        <apps:property name="hasTheWord" value="venmo.com"/>
+        <apps:property name="label" value="Finances/venmo"/>
+        <apps:property name="shouldArchive" value="true"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:z0000001635096762507*6992854808299417031</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="gravebeforeshave.com"/>
+        <apps:property name="label" value="Z - Advertizement"/>
+        <apps:property name="shouldArchive" value="true"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:z0000001640024158406*5421892461812772282</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="*@yourplaymat.com"/>
+        <apps:property name="label" value="YourPlaymat"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:z0000001641345908351*6678317945812128805</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="email@email.whataburger.com"/>
+        <apps:property name="label" value="Z - Advertizement"/>
+        <apps:property name="shouldArchive" value="true"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:z0000001658858233926*5666001980277377297</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="info@twitter.com"/>
+        <apps:property name="shouldTrash" value="true"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:z0000001658858287464*4896491958599421300</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="hasTheWord" value="list:(<spc.274689.4.sparkpostmail.com>)"/>
+        <apps:property name="label" value="Java Related Notifications"/>
+        <apps:property name="shouldMarkAsRead" value="true"/>
+        <apps:property name="shouldArchive" value="true"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:z0000001659716683218*7067099639707359409</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="tommybahama@em.tommybahama.com"/>
+        <apps:property name="label" value="Z - Advertizement/TommyBahama"/>
+        <apps:property name="shouldMarkAsRead" value="true"/>
+        <apps:property name="shouldArchive" value="true"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:z0000001681394821592*1064978435449463317</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="hasTheWord" value="list:(<177351.xt.local>)"/>
+        <apps:property name="label" value="Z - Advertizement"/>
+        <apps:property name="shouldArchive" value="true"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:z0000001681394876625*1501661698365396741</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="hasTheWord" value="list:(<1045947.xt.local>)"/>
+        <apps:property name="label" value="Z - Advertizement"/>
+        <apps:property name="shouldArchive" value="true"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:z0000001681394963410*7289250949035624352</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="googleplay-noreply@google.com"/>
+        <apps:property name="label" value="Finances/Google Play"/>
+        <apps:property name="shouldArchive" value="true"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:z0000001681395102960*3480821809279997299</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="messages-noreply@fitbit.com OR noreply@fitbit.com OR team@e.fitbit.com"/>
+        <apps:property name="label" value="FitBit"/>
+        <apps:property name="shouldArchive" value="true"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:z0000001681395201344*3936941019940109787</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="support.ideas@lego.com"/>
+        <apps:property name="label" value="Lego"/>
+        <apps:property name="shouldArchive" value="true"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:z0000001681523103513*2233624484766329075</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="updates@watch.tubitv.com"/>
+        <apps:property name="shouldTrash" value="true"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:z0000001681742948271*2939188146550095207</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="marketing@firehosegames.com"/>
+        <apps:property name="label" value="Games"/>
+        <apps:property name="shouldArchive" value="true"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:z0000001681744095195*1539453351321789883</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="*@glassdoor.com"/>
+        <apps:property name="label" value="Job Hunting"/>
+        <apps:property name="shouldArchive" value="true"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:z0000001681744175610*6922306730259882026</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="myeyedr@email.myeyedr.com"/>
+        <apps:property name="label" value="Medical"/>
+        <apps:property name="shouldArchive" value="true"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:z0000001686587925461*0947472481746631206</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="jobs@umail.texasjobdepartment.com"/>
+        <apps:property name="label" value="Job Hunting"/>
+        <apps:property name="shouldMarkAsRead" value="true"/>
+        <apps:property name="shouldArchive" value="true"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:z0000001686857042961*4897297069135541330</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="noreply@m.atomtickets.com"/>
+        <apps:property name="label" value="Z - Advertizement"/>
+        <apps:property name="shouldMarkAsRead" value="true"/>
+        <apps:property name="shouldArchive" value="true"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:z0000001688748324751*4583766309132377430</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="hasTheWord" value="list:(036529e593805041d1127c76d.863838.list-id.mcsv.net)"/>
+        <apps:property name="label" value="Games"/>
+        <apps:property name="shouldMarkAsRead" value="true"/>
+        <apps:property name="shouldArchive" value="true"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:z0000001731170927063*1324120217312890896</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="noreply@ideas.lego.com"/>
+        <apps:property name="label" value="Lego"/>
+        <apps:property name="shouldMarkAsRead" value="true"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:z0000001758198418971*2889942875264115399</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="offers@exmac.usaa.com"/>
+        <apps:property name="label" value="Z - Advertizement/USAA"/>
+        <apps:property name="shouldArchive" value="true"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:z0000001760192399885*1053390070223340863</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="hello@trueup.io"/>
+        <apps:property name="label" value="Job Hunting"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:z0000001760192507314*1577324889410631687</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="hasTheWord" value="list:(<pragmaticengineer.substack.com>)"/>
+        <apps:property name="label" value="Job Hunting/Programming News"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:z0000001760192832362*2758835284122077264</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="hasTheWord" value="@watchtimemagazine.ccsend.com"/>
+        <apps:property name="label" value="WatchTime"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:z0000001760193160550*5125575890817251048</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="disneyplus@trx.mail2.disneyplus.com OR disneyplus@mail.disneyplus.com OR disneyplus@mail2.disneyplus.com"/>
+        <apps:property name="label" value="Streaming\DisneyPlus"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:z0000001760193982513*6063923712709194998</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="contact@gammill.com"/>
+        <apps:property name="label" value="Quilting\News"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:z0000001760194260957*1725732647977644085</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="hasTheWord" value="list:(<pragmaticengineer.substack.com>) OR list:(<pragdave.substack.com>) OR list:(<tidyfirst.substack.com>) OR list:(<post.substack.com>) OR list:(<www.substack.com>)"/>
+        <apps:property name="label" value="Job Hunting/Programming News"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:z0000001760194337945*1384460900776996456</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="53.com"/>
+        <apps:property name="label" value="From Work"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:z0000001760195841907*3025525981072684551</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="myeyedr@notifications.myeyedr.com"/>
+        <apps:property name="label" value="FINANCES/MEDICAL"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:z0000001760196327732*4130043071722370519</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="hasTheWord" value="list:(a3d79e6ff682f1029d66198e1.793.list-id.mcsv.net)"/>
+        <apps:property name="label" value="books"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:z0000001760200330444*4484766291968669948</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="noreply@uber.com OR no-reply@uber.com"/>
+        <apps:property name="label" value="Travel/Uber"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:z0000001761007528245*1557668625253805337</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="info@sallietomato.com OR store+28049768482@t.shopifyemail.com OR requests+sallietomato.com@judge.me"/>
+        <apps:property name="label" value="Quilting\News"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:z0000001761007666375*6752078893319770744</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="rewards@e-rewards.dominos.com"/>
+        <apps:property name="label" value="rewards"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:z0000001766958962453*1689949827305737161</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="freebirds@emails.thanx.com"/>
+        <apps:property name="label" value="Z - Advertizement/Freebirds"/>
+        <apps:property name="shouldMarkAsRead" value="true"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:z0000001766959184051*7092172935406002668</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="tonysee@leather-patterns.com OR byannie.com OR f8050087512facc7f1903af2a.28583.list-id.mcsv.net OR loretta.lorettastitchnstuff.com@cjrn07.fo14.fdske.com OR messages+mlfvjga2cdnea@squaremktg.com OR info@sallietomato.com OR store+28049768482@t.shopifyemail.com OR requests+sallietomato.com@judge.me"/>
+        <apps:property name="label" value="Quilting\News"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+    <entry>
+        <category term="filter"/>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:z0000001777142346275*8801676912201278859</id>
+        <updated>2026-04-25T19:29:32Z</updated>
+        <content/>
+        <apps:property name="from" value="hollandamerica@m.hollandamerica.com"/>
+        <apps:property name="label" value="Z - Advertizement/Cruise"/>
+        <apps:property name="shouldMarkAsRead" value="true"/>
+        <apps:property name="shouldArchive" value="true"/>
+        <apps:property name="sizeOperator" value="s_sl"/>
+        <apps:property name="sizeUnit" value="s_smb"/>
+    </entry>
+</feed>
